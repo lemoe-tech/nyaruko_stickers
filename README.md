@@ -3,6 +3,8 @@
 
 奈亚子的表情包
 
+Telegram添加Sticker: [nyaruko_0v0](https://t.me/addstickers/nyaruko_0v0)
+
 
 ## 贡献
 直接PR即可
